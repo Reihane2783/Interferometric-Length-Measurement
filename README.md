@@ -53,6 +53,19 @@ Contains the analysis of experimental interferometry data, including:
 - Repeatability analysis
 - Uncertainty estimation
 
+### `interferometer_animations.ipynb`
+
+Contains interactive and animated visualizations of Michelson interferometer behavior.
+
+The notebook includes:
+
+- Light-path animation in a Michelson interferometer
+- Double-pass propagation through the compensating plate
+- Mirror-angle variation and fringe evolution
+- Transition from circular to linear interference fringes
+- Dynamic fringe displacement caused by mirror motion
+- Comparison of Michelson interferometer configurations with and without a compensating plate
+
 ## Methods
 
 The computational analysis was performed using Python and scientific computing libraries including:
