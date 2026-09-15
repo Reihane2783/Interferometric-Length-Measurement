@@ -6,3 +6,5 @@ openpyxl
 rawpy
 imageio
 seaborn
+ipython
+pillow
