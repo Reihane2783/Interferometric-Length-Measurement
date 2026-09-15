@@ -80,6 +80,3 @@ The main objective is to investigate numerical and experimental approaches for r
 ## Status
 
 This repository contains research-oriented simulations and experimental data analysis developed as part of an optical measurement project.
-
-B.Sc. Physics  
-Amirkabir University of Technology
