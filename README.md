@@ -6,7 +6,7 @@ The project investigates optical interference, temporal and spatial coherence, f
 
 ## Project Overview
 
-The project combines theoretical modeling, numerical simulations, and experimental data analysis to investigate the use of optical interferometry for precise dimensional measurements.
+The project combines theoretical modeling, numerical simulations, animated visualization, and experimental data analysis to investigate the use of optical interferometry for precise dimensional measurements.
 
 The main topics covered include:
 
